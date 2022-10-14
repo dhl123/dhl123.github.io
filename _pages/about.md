@@ -13,10 +13,10 @@ redirect_from:
 
 News
 ======
-* [2022-09] 2 papers are accepted to NeurIPS 2022.
+* [2022-09] 2 papers were accepted to NeurIPS 2022.
 * [2022-01] I am a reviewer of ICML 2022.
 * [2022-01] I am a member of USENIX Security 2022 Artifact Evaluation Committee.
-* [2021-09] 1 papers are accepted to Usenix Security 2021.
+* [2021-09] 1 paper was accepted to Usenix Security 2021.
 
 
 Publication
