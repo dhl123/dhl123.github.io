@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenting Wang"
+title                    : "Hailun Ding"
 title_separator          : "-"
-name                     : &name "Zhenting Wang"
+name                     : &name "Hailun Ding"
 description              : &description "PhD student in CS@Rutgers"
-url                      : https://zhentingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dhl123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhentingwang.github.io"
+repository               : "dhl123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhenting Wang"
+  name             : "Hailun Ding"
   avatar           : #"photo_hq.jpg"
   bio              : "PhD student in CS@Rutgers"
   location         : "Piscataway, NJ 08854"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Uz3FzkoAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhentingWang"
+  github           : "dhl123"
   google_plus      :
   keybase          :
   instagram        :
