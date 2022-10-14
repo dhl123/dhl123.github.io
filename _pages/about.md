@@ -21,30 +21,29 @@ News
 
 Publication
 ======
+* [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)
+**Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
+USENIX Security Symposium 2021 (**Usenix 2021**)
 
-* [Rethinking the Reverse-engineering of Trojan Triggers](https://zhentingwang.github.io/)  
+* [Rethinking the Reverse-engineering of Trojan Triggers]()  
 Zhenting Wang, Kai Mei, **Hailun Ding**, Juan Zhai, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 
-* [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training](https://zhentingwang.github.io/)  
+* [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training]()  
 Zhenting Wang, **Hailun Ding**, Juan Zhai, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
-
-* [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)
-**Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
-USENIX Security Symposium 2021
 
 * [Procedural Learning With Robust Visual Features via Low Rank Prior](https://ieeexplore.ieee.org/document/8624510)
 Haifeng Li, Li Chen, **Hailun Ding**, Qi Li, Bingyu Sun, Guohua Wu  
 IEEE Access 2019
 
-* [A Data-driven Adversarial Examples Recognition Framework via Adversarial Feature Genome]()
+* [A Data-driven Adversarial Examples Recognition Framework via Adversarial Feature Genome](https://arxiv.org/abs/1812.10085v2)
 Li Chen, **Hailun Ding**, Qi Li, Jiawei Zhu, Jian Peng, Haifeng Li  
 Arxiv
 
 * [Understanding the Importance of Single Directions via Representative Substitution](https://arxiv.org/abs/1811.11053)
 Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li  
-AAAI-19 Workshop on Network Interpretability for Deep Learning
+**AAAI 2019** Workshop on Network Interpretability for Deep Learning
 
 
 Service
