@@ -31,19 +31,19 @@ Zhenting Wang, **Hailun Ding**, Juan Zhai, Shiqing Ma
 Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 
 * [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)
-**Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma
+**Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
 USENIX Security Symposium 2021
 
 * [Procedural Learning With Robust Visual Features via Low Rank Prior](https://ieeexplore.ieee.org/document/8624510)
-Haifeng Li, Li Chen, **Hailun Ding**, Qi Li, Bingyu Sun, Guohua Wu
+Haifeng Li, Li Chen, **Hailun Ding**, Qi Li, Bingyu Sun, Guohua Wu  
 IEEE Access 2019
 
 * [A Data-driven Adversarial Examples Recognition Framework via Adversarial Feature Genome]()
-Li Chen, **Hailun Ding**, Qi Li, Jiawei Zhu, Jian Peng, Haifeng Li
+Li Chen, **Hailun Ding**, Qi Li, Jiawei Zhu, Jian Peng, Haifeng Li  
 Arxiv
 
 * [Understanding the Importance of Single Directions via Representative Substitution](https://arxiv.org/abs/1811.11053)
-Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li
+Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li  
 AAAI-19 Workshop on Network Interpretability for Deep Learning
 
 
