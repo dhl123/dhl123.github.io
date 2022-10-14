@@ -39,7 +39,7 @@ IEEE Access 2019
 
 * [A Data-driven Adversarial Examples Recognition Framework via Adversarial Feature Genome](https://arxiv.org/abs/1812.10085v2)
 Li Chen, **Hailun Ding**, Qi Li, Jiawei Zhu, Jian Peng, Haifeng Li  
-Arxiv
+Arxiv 2019
 
 * [Understanding the Importance of Single Directions via Representative Substitution](https://arxiv.org/abs/1811.11053)
 Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li  
