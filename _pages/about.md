@@ -21,7 +21,8 @@ News
 
 Publication
 ======
-* [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)
+
+* [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)  
 **Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
 USENIX Security Symposium 2021 (**Usenix 2021**)
 
