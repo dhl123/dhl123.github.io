@@ -33,11 +33,11 @@ Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 Zhenting Wang, **Hailun Ding**, Juan Zhai, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 
-* [Procedural Learning With Robust Visual Features via Low Rank Prior]([[https://arxiv.org/abs/1811.11053](https://arxiv.org/abs/1812.10085v2](https://ieeexplore.ieee.org/document/8624510)))  
+* [Procedural Learning With Robust Visual Features via Low Rank Prior](https://ieeexplore.ieee.org/document/8624510)  
 Haifeng Li, Li Chen, **Hailun Ding**, Qi Li, Bingyu Sun, Guohua Wu  
 IEEE Access 2019
 
-* [A Data-driven Adversarial Examples Recognition Framework via Adversarial Feature Genome]([https://arxiv.org/abs/1811.11053](https://arxiv.org/abs/1812.10085v2))  
+* [A Data-driven Adversarial Examples Recognition Framework via Adversarial Feature Genome](https://arxiv.org/abs/1812.10085v2)  
 Li Chen, **Hailun Ding**, Qi Li, Jiawei Zhu, Jian Peng, Haifeng Li  
 Arxiv 2019
 
