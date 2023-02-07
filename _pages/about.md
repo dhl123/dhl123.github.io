@@ -16,7 +16,7 @@ News
 * [2023-02] 1 paper was accepted to Usenix Security 2023.
 * [2022-09] 2 papers were accepted to NeurIPS 2022.
 * [2022-01] I am a reviewer of ICML 2022.
-* [2022-01] I am a member of USENIX Security 2022 Artifact Evaluation Committee.
+* [2022-01] I am a member of Usenix Security 2022 Artifact Evaluation Committee.
 * [2021-09] 1 paper was accepted to Usenix Security 2021.
 
 
