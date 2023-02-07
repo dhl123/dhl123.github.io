@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-02] 1 paper was accepted to Usenix Security 2023.
 * [2022-09] 2 papers were accepted to NeurIPS 2022.
 * [2022-01] I am a reviewer of ICML 2022.
 * [2022-01] I am a member of USENIX Security 2022 Artifact Evaluation Committee.
@@ -21,6 +22,10 @@ News
 
 Publication
 ======
+
+* [The Case for Learned Provenance Graph Storage Systems]()  
+**Hailun Ding**, Juan Zhai, Dong Deng, Shiqing Ma  
+USENIX Security Symposium 2023 (**Usenix 2023**)
 
 * [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)  
 **Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
