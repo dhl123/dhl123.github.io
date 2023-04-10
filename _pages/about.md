@@ -13,9 +13,10 @@ redirect_from:
 
 News
 ======
+* [2023-04] I was invited as a reviewer of NeurIPS 2023.
 * [2023-02] 1 paper was accepted to Usenix Security 2023.
 * [2022-09] 2 papers were accepted to NeurIPS 2022.
-* [2022-01] I am a reviewer of ICML 2022.
+* [2022-01] I was invited as a reviewer of ICML 2022.
 * [2022-01] I am a member of Usenix Security 2022 Artifact Evaluation Committee.
 * [2021-09] 1 paper was accepted to Usenix Security 2021.
 
@@ -53,5 +54,6 @@ Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li
 
 Service
 ======
+* Reviewer, NeurIPS 2023
 * Reviewer, International Conference on Machine Learning (ICML), 2022
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
