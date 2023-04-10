@@ -24,7 +24,8 @@ News
 Publication
 ======
 
-* [The Case for Learned Provenance Graph Storage Systems]()  
+* [The Case for Learned Provenance Graph Storage Systems]
+(https://www.usenix.org/conference/usenixsecurity23/presentation/dinghailun) 
 **Hailun Ding**, Juan Zhai, Dong Deng, Shiqing Ma  
 USENIX Security Symposium 2023 (**Usenix 2023**)
 
