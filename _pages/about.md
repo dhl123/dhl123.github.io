@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a third-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/).
+* I am a third-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/). I received my B.E. from Central South University in Software Engineering in 2020. 
 * My research interests are system security, provenance analysis and machine learning security. 
 
 News
@@ -57,3 +57,10 @@ Service
 * Reviewer, NeurIPS 2023
 * Reviewer, International Conference on Machine Learning (ICML), 2022
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
+
+Award
+======
+* National Scholarship (2017, 2019, 0.2% of Chinese undergraduate students) 
+* First Level Scholarship of Central South University (2017, 2018, 2019, Top 3%)
+* Diamond Scholarship (2017, 15 person in 30,000 undergraduate students) 
+* First Prize in The Hack, Hack Shanghai (2018)
