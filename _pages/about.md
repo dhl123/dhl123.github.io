@@ -28,15 +28,15 @@ Publication
 
 * [AirTag: Towards Automated Attack Investigation by Unsupervised Learning with Log Texts]()  
 **Hailun Ding**, Juan Zhai, Yuhong Nan, Shiqing Ma  
-USENIX Security Symposium 2023 (**Usenix 2023**)
+USENIX Security Symposium 2023 (**Usenix security 2023**)
 
 * [The Case for Learned Provenance Graph Storage Systems](https://www.usenix.org/conference/usenixsecurity23/presentation/dinghailun)  
 **Hailun Ding**, Juan Zhai, Dong Deng, Shiqing Ma  
-USENIX Security Symposium 2023 (**Usenix 2023**)
+USENIX Security Symposium 2023 (**Usenix security 2023**)
 
 * [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)  
 **Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
-USENIX Security Symposium 2021 (**Usenix 2021**)
+USENIX Security Symposium 2021 (**Usenix security 2021**)
 
 * [Rethinking the Reverse-engineering of Trojan Triggers]()  
 Zhenting Wang, Kai Mei, **Hailun Ding**, Juan Zhai, Shiqing Ma  
