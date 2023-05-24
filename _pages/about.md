@@ -34,10 +34,6 @@ USENIX Security Symposium 2023 (**Usenix security 2023**)
 **Hailun Ding**, Juan Zhai, Dong Deng, Shiqing Ma  
 USENIX Security Symposium 2023 (**Usenix security 2023**)
 
-* [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)  
-**Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
-USENIX Security Symposium 2021 (**Usenix security 2021**)
-
 * [Rethinking the Reverse-engineering of Trojan Triggers]()  
 Zhenting Wang, Kai Mei, **Hailun Ding**, Juan Zhai, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
@@ -45,6 +41,10 @@ Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 * [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training]()  
 Zhenting Wang, **Hailun Ding**, Juan Zhai, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
+
+* [ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/ding)  
+**Hailun Ding**, Shenao Yan, Juan Zhai, Shiqing Ma  
+USENIX Security Symposium 2021 (**Usenix security 2021**)
 
 * [Procedural Learning With Robust Visual Features via Low Rank Prior](https://ieeexplore.ieee.org/document/8624510)  
 Haifeng Li, Li Chen, **Hailun Ding**, Qi Li, Bingyu Sun, Guohua Wu  
