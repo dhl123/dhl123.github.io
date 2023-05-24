@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-05] 1 paper was accepted to Usenix Security 2023.
 * [2023-04] I was invited as a reviewer of NeurIPS 2023.
 * [2023-02] 1 paper was accepted to Usenix Security 2023.
 * [2022-09] 2 papers were accepted to NeurIPS 2022.
@@ -23,6 +24,11 @@ News
 
 Publication
 ======
+
+
+* [AirTag: Towards Automated Attack Investigation by Unsupervised Learning with Log Texts]()  
+**Hailun Ding**, Juan Zhai, Yuhong Nan, Shiqing Ma  
+USENIX Security Symposium 2023 (**Usenix 2023**)
 
 * [The Case for Learned Provenance Graph Storage Systems](https://www.usenix.org/conference/usenixsecurity23/presentation/dinghailun)  
 **Hailun Ding**, Juan Zhai, Dong Deng, Shiqing Ma  
