@@ -60,6 +60,8 @@ Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li
 
 Service
 ======
+* Reviewer, ICLR 2024
+* Reviewer, NeurIPS Workshop on Backdoors in Deep Learning: The Good, the Bad, and the Ugly (BUGS) 2023
 * Reviewer, NeurIPS 2023
 * Reviewer, International Conference on Machine Learning (ICML), 2022
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
