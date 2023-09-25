@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am a third-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/). I received my B.E. from Central South University in Software Engineering in 2020. 
+* I am a fourth-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). I received my B.E. from Central South University in Software Engineering in 2020. 
 * My research interests are system security, provenance analysis and machine learning security. 
 
 News
 ======
-* [2023-05] 1 paper was accepted to Usenix Security 2023.
+* [2023-09] I was invited as a reviewer of NeurIPS BUGs 2023 and ICLR 2024.
+* [2023-05] 2 papers was accepted to Usenix Security 2023.
 * [2023-04] I was invited as a reviewer of NeurIPS 2023.
-* [2023-02] 1 paper was accepted to Usenix Security 2023.
 * [2022-09] 2 papers were accepted to NeurIPS 2022.
 * [2022-01] I was invited as a reviewer of ICML 2022.
 * [2022-01] I am a member of Usenix Security 2022 Artifact Evaluation Committee.
