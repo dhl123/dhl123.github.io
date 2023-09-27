@@ -14,7 +14,7 @@ redirect_from:
 News
 ======
 * [2023-09] I was invited as a reviewer of NeurIPS BUGs 2023 and ICLR 2024.
-* [2023-05] 2 papers was accepted to Usenix Security 2023.
+* [2023-05] 2 papers were accepted to Usenix Security 2023.
 * [2023-04] I was invited as a reviewer of NeurIPS 2023.
 * [2022-09] 2 papers were accepted to NeurIPS 2022.
 * [2022-01] I was invited as a reviewer of ICML 2022.
