@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* I am a PHD candidate from [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
+* I am a PHD candidate from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
 * My research interests are <b>AI for system security</b> and <b>AI security</b>. More specifically, I am interested in:
-    * Collection, compression, storage and analysis of large-scale security data (provenance and log data).
-    * Rule-based and AI-based intrusion detection and investigation.
+    * Collection, compression, storage and analysis of large-scale security data (e.g., provenance graphs and logs).
+    * Rule/AI based intrusion detection and investigation.
     * AI security and explainable AI. 
 * I was a machine learning and AI research intern at Bell Lab where I focused on data mining on large-scale industry logs in Summer 2023. Before joining Rutgers, I obtained my B.E. from Central South University in 2020.
 
