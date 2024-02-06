@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-* I am a fourth-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). I received my B.E. from Central South University in Software Engineering in 2020. 
-* My research interests are system security, provenance analysis and machine learning security. 
+* I am a PHD candidate from [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
+* My research interests are <b>AI for system security</b> and <b>AI security</b>. More specifically, I am interested in:
+    * Collection, compression, storage and analysis of large-scale security data (provenance and log data).
+    * Rule-based and AI-based intrusion detection and investigation.
+    * AI security and explainable AI. 
+* I was a machine learning and AI research intern at Bell Lab where I focused on data mining on large-scale industry logs in Summer 2023. Before joining Rutgers, I obtained my B.E. from Central South University in 2020.
 
 News
 ======
-* [2023-09] I was invited as a reviewer of NeurIPS BUGs 2023 and ICLR 2024.
-* [2023-05] 2 papers were accepted to Usenix Security 2023.
-* [2023-04] I was invited as a reviewer of NeurIPS 2023.
-* [2022-09] 2 papers were accepted to NeurIPS 2022.
-* [2022-01] I was invited as a reviewer of ICML 2022.
+* [2023-09] I am invited as a reviewer of NeurIPS BUGs 2023, ICLR 2024, ICML 2024.
+* [2023-06] I joined Bell Lab as a Machine Learning and AI intern (2023 summer).
+* [2023-05] Two papers are accepted to Usenix Security 2023.
+* [2023-04] I am invited as a reviewer of NeurIPS 2023.
+* [2022-09] Two papers are accepted to NeurIPS 2022.
+* [2022-01] I am invited as a reviewer of ICML 2022.
 * [2022-01] I am a member of Usenix Security 2022 Artifact Evaluation Committee.
-* [2021-09] 1 paper was accepted to Usenix Security 2021.
+* [2021-09] One paper is accepted to Usenix Security 2021.
 
 
 Publication
@@ -60,10 +65,11 @@ Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li
 
 Service
 ======
+* SubReviewer, CODASPY 2024
 * Reviewer, ICLR 2024
 * Reviewer, NeurIPS Workshop on Backdoors in Deep Learning: The Good, the Bad, and the Ugly (BUGS) 2023
 * Reviewer, NeurIPS 2023
-* Reviewer, International Conference on Machine Learning (ICML), 2022
+* Reviewer, International Conference on Machine Learning (ICML), 2022, 2024
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
 
 Award
