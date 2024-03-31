@@ -30,6 +30,9 @@ News
 Publication
 ======
 
+* [Merlin: Multi-tier Optimization of eBPF Code for Performance and Compactness]()  
+Jinsong Mao, **Hailun Ding**, Juan Zhai, Shiqing Ma  
+Architectural Support for Programming Languages and Operating Systems 2024 (**ASPLOS 2024**)
 
 * [AirTag: Towards Automated Attack Investigation by Unsupervised Learning with Log Texts]()  
 **Hailun Ding**, Juan Zhai, Yuhong Nan, Shiqing Ma  
