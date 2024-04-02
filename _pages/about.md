@@ -17,6 +17,7 @@ redirect_from:
 
 News
 ======
+* [2024-04] One paper is accepted by ASPLOS 2024.
 * [2023-09] I am invited as a reviewer of NeurIPS BUGs 2023, ICLR 2024, ICML 2024.
 * [2023-06] I joined Bell Lab as a Machine Learning and AI intern (2023 summer).
 * [2023-05] Two papers are accepted to Usenix Security 2023.
