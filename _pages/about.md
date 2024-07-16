@@ -13,10 +13,11 @@ redirect_from:
     * Collection, compression, storage and analysis of large-scale security data (e.g., provenance graphs and logs).
     * Rule/AI based intrusion detection and investigation.
     * AI security and explainable AI. 
-* I was a machine learning and AI research intern at Bell Lab where I focused on data mining on large-scale industry logs in Summer 2023. Before joining Rutgers, I obtained my B.E. from Central South University in 2020.
+* This summer, I am a security and privacy research intern at IBM Research. I was a machine learning and AI research intern at Bell Lab where I focused on data mining on large-scale industry logs in Summer 2023. Before joining Rutgers, I obtained my B.E. from Central South University in 2020.
 
 News
 ======
+* [2024-05] I joined IBM Research as a security and privacy intern!
 * [2024-04] One paper is accepted by ASPLOS 2024.
 * [2023-09] I am invited as a reviewer of NeurIPS BUGs 2023, ICLR 2024, ICML 2024.
 * [2023-06] I joined Bell Lab as a Machine Learning and AI intern (2023 summer).
