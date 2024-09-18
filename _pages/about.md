@@ -78,9 +78,10 @@ Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li
 
 Service
 ======
+* Program Committee, AAAI 2025
 * Reviewer, TIFS
 * SubReviewer, CODASPY 2024
-* Reviewer, ICLR 2024
+* Reviewer, ICLR 2024, 2025
 * Reviewer, NeurIPS Workshop on Backdoors in Deep Learning: The Good, the Bad, and the Ugly (BUGS) 2023
 * Reviewer, NeurIPS 2023
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2024
