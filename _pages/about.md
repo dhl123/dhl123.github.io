@@ -17,6 +17,7 @@ redirect_from:
 
 News
 ======
+* [2024-08] One paper is accepted by ACSAC 2024.
 * [2024-05] I joined IBM Research as a security and privacy intern!
 * [2024-04] One paper is accepted by ASPLOS 2024.
 * [2023-09] I am invited as a reviewer of NeurIPS BUGs 2023, ICLR 2024, ICML 2024.
@@ -31,6 +32,11 @@ News
 
 Publication
 ======
+
+* [Madeline: Continuous and Low-cost Monitoring with Graph-free
+  Representations to Combat Cyber Threats]()  
+Wenjia Song, **Hailun Ding**, Na Meng, Peng Gao, Danfeng (Daphne) Yao 
+(**ACSAC 2024**)
 
 * [Merlin: Multi-tier Optimization of eBPF Code for Performance and Compactness]()  
 Jinsong Mao, **Hailun Ding**, Juan Zhai, Shiqing Ma  
