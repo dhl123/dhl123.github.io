@@ -15,7 +15,7 @@ redirect_from:
 
 * This summer, I was a security and privacy research intern at IBM Research. I was a machine learning and AI research intern at Bell Lab where I focused on data mining on large-scale industry logs in Summer 2023. Before joining Rutgers, I obtained my B.E. from Central South University in 2020.
 
-* <b>I am on market and looking for a full time job!</b>
+* <b>I am on the market and look for a full time job!</b>
 
 News
 ======
