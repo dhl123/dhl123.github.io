@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am a PHD candidate from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
-* My research interests are <b>AI for system security</b> and <b>AI security</b>. More specifically, I am interested in:
-    * Collection, compression, storage and analysis of large-scale security data (e.g., provenance graphs and logs).
-    * Intrusion detection, attack investigation and forensics.
-    * AI security and explainable AI. 
-* This summer, I am a security and privacy research intern at IBM Research. I was a machine learning and AI research intern at Bell Lab where I focused on data mining on large-scale industry logs in Summer 2023. Before joining Rutgers, I obtained my B.E. from Central South University in 2020.
+* I am a final-year PHD candidate from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
+* My research focuses on <b>system security and artificial intelligence, particularly at the intersection of AI-driven security as well as the security of AI systems.</b> 
+    * I am especially interested in leveraging AI to automate traditional system security solutions, including anomaly/threat detection, forensics, large-scale security data analysis (e.g., logs, provenance, graph databases, and security-related documents), and program analysis. 
+    * Additionally, I work on enhancing the trustworthiness and robustness of AI systems, with a focus on mitigating backdoor and adversarial attacks, developing explainable AI models, and addressing emerging threats in large language models (LLMs).
+
+* This summer, I was a security and privacy research intern at IBM Research. I was a machine learning and AI research intern at Bell Lab where I focused on data mining on large-scale industry logs in Summer 2023. Before joining Rutgers, I obtained my B.E. from Central South University in 2020.
+
+* <b>I am on market and looking for a full time job!</b>
 
 News
 ======
