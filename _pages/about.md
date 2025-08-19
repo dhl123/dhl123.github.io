@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a final-year PHD candidate from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
+* I graduated from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/) on May 2025, advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
 * My research focuses on <b>system security and artificial intelligence, particularly at the intersection of AI-driven security as well as the security of AI systems.</b> 
     * I am especially interested in leveraging AI to automate traditional system security solutions, including anomaly/threat detection, forensics, large-scale security data analysis (e.g., logs, provenance, graph databases, and security-related documents), and program analysis. 
     * Additionally, I work on enhancing the trustworthiness and robustness of AI systems, with a focus on mitigating backdoor and adversarial attacks, developing explainable AI models, and addressing emerging threats in large language models (LLMs).
