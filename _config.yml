@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Hailun Ding"
-  avatar           : #"photo_hq.jpg"
-  bio              : "PhD student in CS@Rutgers"
-  location         : "Piscataway, NJ 08854"
+  avatar           : "profile.png"
+  bio              : "Research Scientist @IBM Research"
+  location         : "Yorktown Heights, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Uz3FzkoAAAAJ&hl=en"
