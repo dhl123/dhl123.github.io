@@ -8,26 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-* I graduated from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/) on May 2025, advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
-* My research focuses on <b>system security and artificial intelligence, particularly at the intersection of AI-driven security as well as the security of AI systems.</b> 
-    * I am especially interested in leveraging AI to automate traditional system security solutions, including anomaly/threat detection, forensics, large-scale security data analysis (e.g., logs, provenance, graph databases, and security-related documents), and program analysis. 
-    * Additionally, I work on enhancing the trustworthiness and robustness of AI systems, with a focus on mitigating backdoor and adversarial attacks, developing explainable AI models, and addressing emerging threats in large language models (LLMs).
+* I got my PHD from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/) on May 2025, advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
+* I work at <b>AI for security and security of LLM/Agent systems</b>. I build AI-driven pipelines for auditing, storage, anomaly and threat detection, and forensics across diverse security data (e.g., logs, provenance graphs, and threat intelligence reports). My current focus spans LLM and agent security—including policy enforcement (e.g., OPA), MCP gateway controls, and automated evaluation pipelines for policy creation, adversarial test case generation, and purple-team continuous assessment. I also research model security, covering backdoor and interpretability to diagnose and mitigate unsafe model behaviors.
 
-* I am currently an AI and security research scientist at IBM Research. Previously, I was a security and privacy research intern at IBM Research in Summer 2024, and a machine learning and AI research intern at Bell Labs in Summer 2023. Before my PHD at Rutgers, I earned my B.E. from Central South University in 2020.
+* I am currently a research scientist at IBM Research. Previously, I was an research intern at IBM Research in Summer 2024, and a machine learning and AI research intern at Bell Labs in Summer 2023. Before my PHD at Rutgers, I earned my B.E. from Central South University in 2020.
 
 News
 ======
-* [2024-08] One paper is accepted by ACSAC 2024.
-* [2024-05] I joined IBM Research as a security and privacy intern!
-* [2024-04] One paper is accepted by ASPLOS 2024.
-* [2023-09] I am invited as a reviewer of NeurIPS BUGs 2023, ICLR 2024, ICML 2024.
-* [2023-06] I joined Bell Lab as a Machine Learning and AI intern (2023 summer).
-* [2023-05] Two papers are accepted to Usenix Security 2023.
-* [2023-04] I am invited as a reviewer of NeurIPS 2023.
-* [2022-09] Two papers are accepted to NeurIPS 2022.
-* [2022-01] I am invited as a reviewer of ICML 2022.
+* [2025-02] I joined IBM Research as a research scientist.
+* [2024-08] One paper was accepted by ACSAC 2024.
+* [2024-05] I joined IBM Research as a research intern.
+* [2024-04] One paper was accepted by ASPLOS 2024.
+* [2023-06] I joined Bell Lab as a Machine Learning and AI intern.
+* [2023-05] Two papers were accepted to Usenix Security 2023.
+* [2022-09] Two papers were accepted to NeurIPS 2022.
 * [2022-01] I am a member of Usenix Security 2022 Artifact Evaluation Committee.
-* [2021-09] One paper is accepted to Usenix Security 2021.
+* [2021-09] One paper was accepted to Usenix Security 2021.
 
 
 Publication
@@ -76,14 +72,14 @@ Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li
 
 Service
 ======
-* Program Committee, AAAI 2025
+* Program Committee, AAAI 2025, 2026
 * Reviewer, TIFS
 * SubReviewer, CODASPY 2024
 * Reviewer, ICLR 2024, 2025
 * Reviewer, NeurIPS Workshop on Backdoors in Deep Learning: The Good, the Bad, and the Ugly (BUGS) 2023
-* Reviewer, NeurIPS 2023
+* Reviewer, NeurIPS 2023, 2025
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2024
-* Artifact Evaluation Committee, USENIX Security Symposium, 2022
+* Artifact Evaluation Committee, USENIX Security Symposium, 2022 (Fall and Winter cycles)
 
 Award
 ======
