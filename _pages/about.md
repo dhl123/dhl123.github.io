@@ -74,7 +74,7 @@ Service
 ======
 * Program Committee, AAAI 2025, 2026
 * Reviewer, TIFS
-* SubReviewer, CODASPY 2024
+* Reviewer, CODASPY 2024
 * Reviewer, ICLR 2024, 2025
 * Reviewer, NeurIPS Workshop on Backdoors in Deep Learning: The Good, the Bad, and the Ugly (BUGS) 2023
 * Reviewer, NeurIPS 2023, 2025
