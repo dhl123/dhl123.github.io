@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 * I got my PHD from [Department of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/) on May 2025, advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). 
-* I work at <b>AI for security and security of LLM/Agent systems</b>. I build AI-driven pipelines for auditing, storage, anomaly and threat detection, and forensics across diverse security data (e.g., logs, provenance graphs, and threat intelligence reports). My current focus spans LLM and agent security—including policy enforcement (e.g., OPA), MCP gateway controls, and automated evaluation pipelines for policy creation, adversarial test case generation, and purple-team continuous assessment. I also research model security, covering backdoor and interpretability to diagnose and mitigate unsafe model behaviors.
+* I work on <b>AI for security and Agent/LLm security</b>. I build AI-driven pipelines to automate security workflows
+spanning auditing, anomaly detection, and forensics. My current focus is the security of AI agent/LLM systems,
+encompassing policy enforcement (e.g., OPA), MCP gateway controls, automation and continuous
+assessment. I also investigate AI model security, with emphasis on backdoor attacks and interpretability as tools to
+diagnose and mitigate unsafe model behaviors.
 
-* I am currently a research scientist at IBM Research. Previously, I was an research intern at IBM Research in Summer 2024, and a machine learning and AI research intern at Bell Labs in Summer 2023. Before my PHD at Rutgers, I earned my B.E. from Central South University in 2020.
+* I am currently a research scientist at IBM Research. Previously, I was an research intern at IBM Research, and a research intern at Bell Labs. Before my PHD, I earned my B.E. from Central South University in 2020.
 
 News
 ======
