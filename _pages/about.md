@@ -19,6 +19,7 @@ diagnose and mitigate unsafe model behaviors.
 
 News
 ======
+* [2026-06] One paper was accepted by Usenix 2026.
 * [2025-02] I joined IBM Research as a research scientist.
 * [2024-08] One paper was accepted by ACSAC 2024.
 * [2024-05] I joined IBM Research as a research intern.
@@ -32,6 +33,10 @@ News
 
 Publication
 ======
+
+* [DUPIN: Attack Learning Is Still Needed! Demonstrating Few-Shot after Unsupervised Pretraining Is A Nimble Forensics Learner]()  
+Chanwoo Bae, **Hailun Ding**, Shiqing Ma, Xiangyu Zhang
+(**Usenix 2026**)
 
 * [Madeline: Continuous and Low-cost Monitoring with Graph-free
   Representations to Combat Cyber Threats]()  
