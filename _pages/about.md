@@ -82,7 +82,8 @@ Li Chen, **Hailun Ding**, Qi Li, Zhuo Li, Jian Peng, Haifeng Li
 Service
 ======
 * Program Committee, AAAI 2025, 2026
-* Reviewer, TIFS
+* Reviewer, Knowledge-Based Systems (Knosys)
+* Reviewer, IEEE Transactions on Information Forensics and Security (TIFS)
 * Reviewer, CODASPY 2024
 * Reviewer, ICLR 2024, 2025
 * Reviewer, NeurIPS Workshop on Backdoors in Deep Learning: The Good, the Bad, and the Ugly (BUGS) 2023
