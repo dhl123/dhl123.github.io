@@ -19,6 +19,7 @@ diagnose and mitigate unsafe model behaviors.
 
 News
 ======
+* [2026-06] Our work [Smith](https://github.com/IBM/smith) is now open source. Check it out for lifecycle management of enforceable policies for AI agents. 
 * [2026-06] One paper was accepted by Usenix 2026.
 * [2025-02] I joined IBM Research as a research scientist.
 * [2024-08] One paper was accepted by ACSAC 2024.
